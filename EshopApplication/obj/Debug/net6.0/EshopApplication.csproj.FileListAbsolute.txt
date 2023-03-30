@@ -1,0 +1,174 @@
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\appsettings.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.exe
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.deps.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.runtimeconfig.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.pdb
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Azure.Core.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Humanizer.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.CodeDom.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Text.Json.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.AssemblyReference.cache
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.AssemblyInfoInputs.cache
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.AssemblyInfo.cs
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.CoreCompileInputs.cache
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.EshopApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.EshopApplication.props
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EshopApplication.props
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EshopApplication.props
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\scopedcss\bundle\EshopApplication.styles.css
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.CopyComplete
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\refint\EshopApplication.dll
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.pdb
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.genruntimeconfig.cache
+D:\Dot Net Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\ref\EshopApplication.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\appsettings.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.exe
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.deps.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.runtimeconfig.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\EshopApplication.pdb
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Humanizer.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.AssemblyReference.cache
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.AssemblyInfoInputs.cache
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.AssemblyInfo.cs
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.CoreCompileInputs.cache
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.EshopApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.EshopApplication.props
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EshopApplication.props
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EshopApplication.props
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\scopedcss\bundle\EshopApplication.styles.css
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.csproj.CopyComplete
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\refint\EshopApplication.dll
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.pdb
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\EshopApplication.genruntimeconfig.cache
+D:\Projects_DotNet_Angular\DotNET_Projects\EshopApplication\EshopApplication\obj\Debug\net6.0\ref\EshopApplication.dll
